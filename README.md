@@ -1,4 +1,4 @@
-# Election Analysis
+# Congressional Election Analysis
 Analyzing the elections results for a local congressional election in Colorado.
 
 ## Project Overview
